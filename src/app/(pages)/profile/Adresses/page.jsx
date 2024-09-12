@@ -1,9 +1,19 @@
+// import React from 'react'
+
+// export default function Adresses(){
+//   return (
+//     <div>Adresses</div>
+//   )
+// }
+
 import React from 'react'
 
-const Adresses = () => {
+const page = () => {
   return (
-    <div>Adresses</div>
+    <div>
+      Addresses
+    </div>
   )
 }
 
-export default Adresses
+export default page
