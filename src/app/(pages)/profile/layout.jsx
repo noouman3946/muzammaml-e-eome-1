@@ -5,7 +5,7 @@ import { FaWallet, FaGift, FaShoppingCart, FaUser, FaHome, FaCreditCard, FaPhone
 const ProfileSidebar = ({ children }) => {
   return (
     <div className='flex'>
-      <aside className="fixed top-0 left-0 h-full w-64 bg-white text-gray-900 shadow-lg border-r border-gray-200">
+      <aside className="h-full w-64 bg-white text-gray-900 shadow-lg border-r border-gray-200">
         <div className="p-4">
           <h2 className="text-2xl font-bold mb-4 text-gray-800">Profile</h2>
           <div className="flex items-center mb-6">
